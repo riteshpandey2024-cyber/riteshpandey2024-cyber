@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ritesh-Pandey37.Ritesh-Pandey37" alt="Visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=riteshpandey2024-cyber.riteshpandey2024-cyber" alt="Visitors" />
 </p>
 
 <h1 align="center">
@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-👋 Hi, I'm Ritesh Pandey, a 2nd-year Computer Science and Engineering student specializing in Cybersecurity at the Indian Institute of Information Technology (IIIT) Kottayam.  
+👋 Hi, I'm Ritesh Pandey, a 3rd-year Computer Science and Engineering student specializing in Cybersecurity at the Indian Institute of Information Technology (IIIT) Kottayam.  
 I am passionate about web development, especially frontend design, and I have a strong interest in problem-solving using C++ and Python.  
 
 💡 I enjoy building creative, user-friendly projects, exploring new technologies, and applying my skills in practical problem-solving.  
@@ -28,9 +28,9 @@ I am passionate about web development, especially frontend design, and I have a 
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Ritesh-Pandey37&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=Ritesh-Pandey37&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh-Pandey37&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=riteshpandey2024-cyber&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=riteshpandey2024-cyber&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshpandey2024-cyber&theme=dark&hide_border=false&layout=compact)
 
 ---
 
