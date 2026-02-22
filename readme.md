@@ -7,11 +7,13 @@
 </h1>
 
 <h3 align="center">
-👋 Hi, I'm Ritesh Pandey, a 3rd-year Computer Science and Engineering student specializing in Cybersecurity at the Indian Institute of Information Technology (IIIT) Kottayam.  
-I am passionate about web development, especially frontend design, and I have a strong interest in problem-solving using C++ and Python.  
 
-💡 I enjoy building creative, user-friendly projects, exploring new technologies, and applying my skills in practical problem-solving.  
-🚀 I aim to work in the fields of data analytics, web development, and cybersecurity, contributing to impactful, real-world solutions.  
+👋 Hi, I'm Ritesh Pandey, a 3rd-year Computer Science and Engineering student specialising in Cybersecurity at the Indian Institute of Information Technology (IIIT) Kottayam. I have a strong interest in problem-solving using Python and C++, and I am increasingly focused on Artificial Intelligence and Machine Learning, particularly in data-driven and security-related applications.
+
+💡 I enjoy building practical, user-oriented solutions, exploring new technologies, and applying analytical thinking to real-world problems. Recently, I have been developing projects in Natural Language Processing and machine learning, strengthening my foundation in data analysis and model-driven problem solving.
+
+🚀 I aim to advance my career in AI and Machine Learning, working on intelligent systems and data-centric solutions that create meaningful real-world impact.
+  
 </h3>
 
 ---
@@ -22,8 +24,8 @@ I am passionate about web development, especially frontend design, and I have a 
 **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React.js  
 **Backend:** Node.js, Express.js  
 **Databases:** MySQL, MongoDB  
-**Tools & Technologies:** Git, GitHub, npm, JWT Authentication, Postman, VS Code, Figma  
-**Coursework:** Data Structures & Algorithms, Operating Systems, Computer Networks, DBMS, Cybersecurity Basics  
+**Tools & Technologies:** Pandas, npm, JWT Authentication, Postman, VS Code, Figma, HuggingFace Transformers, T5, Seq2Seq, Git/GitHub.
+**Coursework:** Data Science and Data Analytics, Machine Learning (Basics), Cloud Computing, Internet of Things, Database Management Systems, Computer Organisation, Operating Systems, Computer Networks, Database Security, Financial Crime.  
 
 ---
 
