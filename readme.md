@@ -8,7 +8,7 @@
 
 <h3 align="center">
 
-## Intro
+## Introduction
 
 👋 Hi, I'm Ritesh Pandey, a 3rd-year Computer Science and Engineering student specialising in Cybersecurity at the Indian Institute of Information Technology (IIIT) Kottayam. I have a strong interest in problem-solving using Python and C++, and I am increasingly focused on Artificial Intelligence and Machine Learning, particularly in data-driven and security-related applications.
 
