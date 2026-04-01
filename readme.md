@@ -11,8 +11,7 @@
 ## Introduction
 
 ## 👋 Hi, I'm Ritesh Pandey  
-🎓 3rd-year B.Tech CSE (Cyber Security) student at IIIT Kottayam  
-I have a strong foundation in **problem-solving (DSA)** using C++ and Python, along with growing expertise in **Artificial Intelligence, Machine Learning, and Full Stack Development**. 
+🎓 3rd-year B.Tech CSE (Cyber Security) student at IIIT Kottayam. I have a strong foundation in **problem-solving (DSA)** using C++ and Python, along with growing expertise in **Artificial Intelligence, Machine Learning, and Full Stack Development**. 
 My interests lie in building **data-driven and security-focused applications** that solve real-world problems.
 💡 I enjoy developing practical, user-centric solutions and have recently worked on projects in **Natural Language Processing (NLP)** and machine learning, strengthening my skills in **data analysis, model building, and system design**.
 🚀 With hands-on experience in **MERN stack and AWS cloud services**, I aim to build scalable intelligent systems and contribute to impactful AI-driven solutions.
