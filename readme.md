@@ -29,6 +29,17 @@
 
 ---
 
+## 🏆 Achievements
+
+- 💡 [Solved **600+ DSA problems** on Coding Ninjas (114), LeetCode (229), and GeeksforGeeks (293)](certificateLink.com)
+- 🏅 [Secured **Rank 16** on GeeksforGeeks among students of my college](https://www.geeksforgeeks.org/profile/pandeyritesh2003?tab=activity)
+- 🎓 [Earned **IBM Certification in Basics of Quantum Information**](https://www.credly.com/badges/be8a5229-5a79-4061-b041-8d71a707c503)
+- 🔐 [Completed **10-hour Cybersecurity Training** (Skill India – Tech Mahindra Foundation)](https://drive.google.com/file/d/1x-_Y-ix6Dut1CRC06E7ED9SZKmIvMDcE/view)
+- 🧠 [Participated in a **5-day FDP on RNLP at IIIT Kottayam**](https://www.linkedin.com/feed/update/urn:li:activity:7361473922787086336/?originTrackingId=1cEWbZSTf5u4a64Uk3aWSw%3D%3D)
+- 🤖 [Supervised Machine Learning: Regression and Classification – DeepLearning.AI & Stanford University (Coursera)](https://www.coursera.org/account/accomplishments/verify/TCGSPXS5EFPK)
+
+---
+
 
 
 ## 📊 GitHub Stats
