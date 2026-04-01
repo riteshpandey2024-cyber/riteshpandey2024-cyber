@@ -31,7 +31,7 @@
 
 ## 🏆 Achievements
 
-- 💡 [Solved **600+ DSA problems** on Coding Ninjas (114), LeetCode (229), and GeeksforGeeks (293)](certificateLink.com)
+- 💡 [Solved **600+ DSA problems** on Coding Ninjas (114), LeetCode (229), and GeeksforGeeks (293)]
 - 🏅 [Secured **Rank 16** on GeeksforGeeks among students of my college](https://www.geeksforgeeks.org/profile/pandeyritesh2003?tab=activity)
 - 🎓 [Earned **IBM Certification in Basics of Quantum Information**](https://www.credly.com/badges/be8a5229-5a79-4061-b041-8d71a707c503)
 - 🔐 [Completed **10-hour Cybersecurity Training** (Skill India – Tech Mahindra Foundation)](https://drive.google.com/file/d/1x-_Y-ix6Dut1CRC06E7ED9SZKmIvMDcE/view)
