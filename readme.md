@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=00FF7F&center=true&vCenter=true&width=600&lines=Hello+Visitors,+I'm+Ritesh+Pandey;Full-Stack+Developer+and+AI-ML+Enthusiast" />
 </h1>
 
-<h3 align="center">
 
 ## Introduction
 
@@ -18,7 +17,7 @@ My interests lie in building **data-driven and security-focused applications** t
 🚀 With hands-on experience in **MERN stack and AWS cloud services**, I aim to build scalable intelligent systems and contribute to impactful AI-driven solutions.
 ⚡ Solved 600+ DSA problems | 🏅 GFG Rank 16 (College)
   
-</h3>
+
 
 ---
 
