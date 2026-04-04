@@ -28,6 +28,7 @@ My interests lie in building **data-driven and security-focused applications** t
 **Backend:** Node.js, Express.js  
 **Databases:** MySQL, MongoDB  
 **Tools & Technologies:** Pandas, npm, JWT Authentication, Postman, VS Code, Figma, HuggingFace Transformers, T5, Seq2Seq, Git/GitHub.
+
 **AWS Cloud Service**: AWS(EC2, S3, IAM, Lambda, RDS, VPC, CloudWatch, CloudTrail, API Gateway, KMS).                                         
 **Coursework:** Data Science and Data Analytics, Machine Learning (Basics), Cloud Computing, Internet of Things, Database Management Systems, Computer Organisation, Operating Systems, Computer Networks, Database Security, Financial Crime.  
 
