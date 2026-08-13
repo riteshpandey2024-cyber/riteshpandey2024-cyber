@@ -11,11 +11,11 @@
 ## Introduction
 
 ## 👋 Hi, I'm Ritesh Pandey  
-🎓 4rd-year B.Tech CSE (Cyber Security) student at IIIT Kottayam. I have a strong foundation in **problem-solving (DSA)** using C++ and Python, along with growing expertise in **Artificial Intelligence, Machine Learning, and Full Stack Development**. 
+🎓 4th-year B.Tech CSE (Cyber Security) student at IIIT Kottayam. I have a strong foundation in **problem-solving (DSA)** using C++ and Python, along with growing expertise in **Artificial Intelligence, Machine Learning, and Full Stack Development**. 
 My interests lie in building **data-driven and security-focused applications** that solve real-world problems.
 💡 I enjoy developing practical, user-centric solutions and have recently worked on projects in **Natural Language Processing (NLP)** and machine learning, strengthening my skills in **data analysis, model building, and system design**.
 🚀 With hands-on experience in **MERN stack and AWS cloud services**, I aim to build scalable intelligent systems and contribute to impactful AI-driven solutions.
-⚡ Solved 600+ DSA problems | 🏅 GFG Rank 16 (College)
+⚡ Solved 600+ DSA problems | 🏅 GFG Rank 15 (College)
   
 </h3>
 
@@ -37,7 +37,7 @@ My interests lie in building **data-driven and security-focused applications** t
 ## 🏆 Achievements
 
 - 💡 [Solved **600+ DSA problems** on Coding Ninjas (114), LeetCode (229), and GeeksforGeeks (293)]
-- 🏅 [Secured **Rank 16** on GeeksforGeeks among students of my college](https://www.geeksforgeeks.org/profile/pandeyritesh2003?tab=activity)
+- 🏅 [Secured **Rank 15** on GeeksforGeeks among students of my college](https://www.geeksforgeeks.org/profile/pandeyritesh2003?tab=activity)
 - 🎓 [Earned **IBM Certification in Basics of Quantum Information**](https://www.credly.com/badges/be8a5229-5a79-4061-b041-8d71a707c503)
 - 🔐 [Completed **10-hour Cybersecurity Training** (Skill India – Tech Mahindra Foundation)](https://drive.google.com/file/d/1x-_Y-ix6Dut1CRC06E7ED9SZKmIvMDcE/view)
 - 🧠 [Participated in a **5-day FDP on RNLP at IIIT Kottayam**](https://www.linkedin.com/feed/update/urn:li:activity:7361473922787086336/?originTrackingId=1cEWbZSTf5u4a64Uk3aWSw%3D%3D)
