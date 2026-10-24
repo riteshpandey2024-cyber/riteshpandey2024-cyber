@@ -2,7 +2,7 @@
 <!--                  Ritesh Pandey            -->
 <!-- ========================================================= -->
 
-<div align="center"> AI/ML Practitioner $|$ Software Developer
+<div align="center"> 
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:030712,35:0F172A,70:312E81,100:020617&height=230&section=header&text=Ritesh%20Pandey&fontSize=72&fontColor=E2E8F0&fontAlignY=40&desc=AI/ML%20Practitioner%20%7C%20Software%20Developer%20%7C%20IIIT%20Kottayam"/>
 
@@ -407,36 +407,36 @@ Full-stack hospital management platform supporting patient, doctor, and administ
 ---
 
 
-# 🏆 Achievements
+# Achievements
 
 <div align="center">
 
-| 🏅 Achievement | Details |
+| Achievement | Details |
 | :--- | :--- |
-| 🎓 Education | B.Tech CSE — Cybersecurity, IIIT Kottayam |
-| 💻 DSA | 600+ Problems Solved Across LeetCode, GeeksforGeeks & Coding Ninjas |
-| 🥇 GeeksforGeeks | Secured Rank 15 Among Students of My College |
-| 📜 Certification | Supervised Machine Learning: Regression and Classification — DeepLearning.AI & Stanford University (Coursera) |
-| 🔬 Responsible NLP | Completed a 5-Day Faculty Development Program at IIIT Kottayam |
-| 🚀 Projects | Developed Full-Stack Applications, SQL-Based Systems & LLM-Powered Solutions |
+| Education | B.Tech CSE — Cybersecurity, IIIT Kottayam |
+| DSA | 600+ Problems Solved Across LeetCode, GeeksforGeeks & Coding Ninjas |
+| GeeksforGeeks | Secured Rank 15 Among Students of My College |
+| Certification | Supervised Machine Learning: Regression and Classification — DeepLearning.AI & Stanford University (Coursera) |
+| Responsible NLP | Completed a 5-Day Faculty Development Program at IIIT Kottayam |
+| Projects | Developed Full-Stack Applications, SQL-Based Systems & LLM-Powered Solutions |
 
 </div>
 
 
 ---
 
-# 🧩 Coding Profiles
+# Coding Profiles
 
 <div align="center">
 
-<a href="https://leetcode.com/sawarn_nik">
-<img src="https://leetcard.jacoblin.cool/sawarn_nik?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+<a href="https://leetcode.com/u/enola_evans5/">
+<img src="https://leetcard.jacoblin.cool/enola_evans5?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
 </a>
 
 <br><br>
 
 <a href="https://leetcode.com/u/enola_evans5/">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riteshpandey2024-cyber&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enola_evans5&theme=tokyonight" width="100%" />
 </a>
 
 </div>
@@ -446,7 +446,7 @@ Full-stack hospital management platform supporting patient, doctor, and administ
 
 ---
 
-# 🐍 Contribution Snake
+# Contribution Snake
 
 <div align="center">
 
@@ -471,7 +471,7 @@ Full-stack hospital management platform supporting patient, doctor, and administ
 
 ---
 
-# 📈 Contribution Calendar
+# Contribution Calendar
 
 <div align="center">
 
@@ -481,7 +481,7 @@ Full-stack hospital management platform supporting patient, doctor, and administ
 
 ---
 
-# 📚 Current Learning
+# Current Learning
 
 ```text
 🔹 Large Language Models
