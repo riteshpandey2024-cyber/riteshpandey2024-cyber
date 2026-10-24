@@ -12,7 +12,7 @@
 
 <a href="https://git.io/typing-svg">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=AI+Developer;Software+Engineer;Research+Intern+%40+IIT+Kharagpur;LLM+%26+Graph+Neural+Networks;Backend+Systems+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=00FF7F&center=true&vCenter=true&width=600&lines=Hello+Visitors,+I'm+Ritesh+Pandey;Software+Developer+and+AI/ML+Practitioner" />
 
 </a>
 
