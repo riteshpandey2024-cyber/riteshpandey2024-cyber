@@ -433,39 +433,6 @@ Full-stack hospital management platform supporting patient, doctor, and administ
 <img src="https://leetcard.jacoblin.cool/enola_evans5?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
 </a>
 
-<br><br>
-
-<a href="https://leetcode.com/u/enola_evans5/">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enola_evans5&theme=tokyonight" width="100%" />
-</a>
-
-</div>
-
----
-
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-> **Note:** This animation is automatically generated using GitHub Actions and updates as you contribute.
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/riteshpandey2024-cyber/riteshpandey2024-cyber/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/riteshpandey2024-cyber/riteshpandey2024-cyber/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/riteshpandey2024-cyber/riteshpandey2024-cyber/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
 </div>
 
