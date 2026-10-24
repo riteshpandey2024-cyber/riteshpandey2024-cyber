@@ -387,9 +387,9 @@ Full-stack hospital management platform supporting patient, doctor, and administ
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sawarn-nik&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=riteshpandey2024-cyber&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=sawarn-nik&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=riteshpandey2024-cyber&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
@@ -398,16 +398,6 @@ Full-stack hospital management platform supporting patient, doctor, and administ
 </div>
 
 ---
-
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=riteshpandey2024-cyber&theme=tokyo-night&hide_border=true"/>
-
-</div>
----
-
 
 # Achievements
 
