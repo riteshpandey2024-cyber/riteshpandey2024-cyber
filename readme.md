@@ -14,15 +14,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=00FF7F&center=true&vCenter=true&width=600&lines=Hello+Visitors,+I'm+Ritesh+Pandey;AI/ML+Practitioner+and+Software+Developer" />
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=riteshpandey2024-cyber.riteshpandey2024-cyber" alt="Visitors" />
-</p>
-
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=riteshpandey2024-cyber&label=Profile+Views&color=7C3AED&style=for-the-badge"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=riteshpandey2024-cyber.riteshpandey2024-cyber" alt="Visitors" />
 
 <img src="https://img.shields.io/github/followers/riteshpandey2024-cyber?style=for-the-badge&color=38BDF8"/>
 
