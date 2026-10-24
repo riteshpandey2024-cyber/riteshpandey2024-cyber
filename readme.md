@@ -22,9 +22,9 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=sawarn-nik&label=Profile+Views&color=7C3AED&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=riteshpandey2024-cyber&label=Profile+Views&color=7C3AED&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/sawarn-nik?style=for-the-badge&color=38BDF8"/>
+<img src="https://img.shields.io/github/followers/riteshpandey2024-cyber?style=for-the-badge&color=38BDF8"/>
 
 <img src="https://img.shields.io/badge/Open%20To-Internships-success?style=for-the-badge"/>
 
